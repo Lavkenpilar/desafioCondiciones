@@ -10,3 +10,6 @@ borde.addEventListener ("click", function(){
     }
 })
 
+
+
+
